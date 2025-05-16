@@ -146,7 +146,7 @@
                         </p>
                         <p class="font-pixel text-retroBlack">
                             <strong>URL:</strong>
-                            <a href={result.url} target="_blank" class="text-retroBlue hover:underline">Listen</a>
+                            <a href= {result.url} target="_blank" class="text-retroBlue hover:underline">Listen</a>
                         </p>
                     </div>
                 {/each}
